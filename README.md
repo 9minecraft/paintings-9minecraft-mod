@@ -8,6 +8,13 @@ An unofficial rebuild of **StrikerRocker, Subaraki**'s original work, kept runni
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric, NeoForge |
+| 26.2 | Fabric, NeoForge |
+
 ## Source
 
 The full source of every build travels inside the download itself, under `META-INF/sources/`. Unzip the file you grabbed and it is all there — no request needed.
